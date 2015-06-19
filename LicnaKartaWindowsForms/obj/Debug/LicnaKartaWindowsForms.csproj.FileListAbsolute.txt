@@ -1,0 +1,65 @@
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe.config
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Form1.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Properties.Resources.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csproj.GenerateResource.Cache
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Dodadi_novo_Lice.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe.config
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.exe
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Dodadi_novo_Lice.resources
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Form1.resources
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Properties.Resources.resources
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe
+C:\Users\Jordan\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe.config
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Dodadi_novo_Lice.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Form1.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Properties.Resources.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe.config
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.exe
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\MySql.Data.dll
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Dodadi_novo_Lice.resources
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Form1.resources
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Properties.Resources.resources
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Jordan\Downloads\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\itextsharp.dll
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe.config
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Dodadi_novo_Lice.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Form1.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Properties.Resources.resources
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Ptoekt2 - Jordan\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csproj.GenerateResource.Cache
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe.config
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.pdb
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Dodadi_novo_Lice.resources
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Form1.resources
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.Properties.Resources.resources
+C:\Users\zive-stojanov\Desktop\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.csproj.GenerateResource.Cache
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Finalen\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\bin\Debug\LicnaKartaWindowsForms.exe.config
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Finalen\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.exe
+C:\Users\zive-stojanov\Documents\Visual Studio 2013\Projects\Proekt\Finalen\LicnaKartaWindowsForms\LicnaKartaWindowsForms\LicnaKartaWindowsForms\obj\Debug\LicnaKartaWindowsForms.pdb
